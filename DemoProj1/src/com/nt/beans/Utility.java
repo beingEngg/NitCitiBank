@@ -13,7 +13,7 @@ public class Utility {
 		System.out.println("Utility m1() method executed:abcd");
 
 		System.out.println("Utility m1() method executed:1234");
-
+       System.out.println("util method executed after adding .gitignore");
 	}
 
 }
