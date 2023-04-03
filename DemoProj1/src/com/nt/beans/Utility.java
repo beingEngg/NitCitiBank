@@ -16,12 +16,11 @@ public class Utility {
        System.out.println("util method executed after adding .gitignore to conceal package");
 	}
 
-
-
-
-
-
-
-
+       public void m3() {
+    	 System.out.println("m3");
+     }
+     public void m5() {
+    	  System.out.println("m5");
+     }
 
 }
